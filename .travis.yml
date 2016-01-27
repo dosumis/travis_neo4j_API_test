@@ -5,4 +5,4 @@ language: python
 python:
   - "3.5"
 install: "pip install requests"
-script: src/neo4j_tools_test.py
+script: sudo src/neo4j_tools_test.py
